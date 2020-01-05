@@ -1,0 +1,5 @@
+
+Need visual studio for CUDA
+Need to figure out which version of CUDA I need to install. 
+Need to use that version of CUDA to dictate which wheel of PyTorch 0.4.1 I install.
+Apparently using Anaconda simplifies PyTorch installation?

@@ -20,7 +20,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="GitIgnore" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -46,5 +48,23 @@
       <updated>1577138746927</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577935974183">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1577935974183" />
+    <state x="185" y="6" key="SettingsEditor" timestamp="1578110710524">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="185" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1578110710524" />
+    <state x="378" y="186" key="com.intellij.ide.util.TipDialog" timestamp="1578097630211">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="378" y="186" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1578097630211" />
+    <state x="346" y="49" key="search.everywhere.popup" timestamp="1577935923045">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1577935923045" />
   </component>
 </project>
