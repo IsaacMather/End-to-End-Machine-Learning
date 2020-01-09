@@ -1,5 +1,36 @@
+https://www.quora.com/Which-version-of-cuda-cudnn-and-tensorflow-is-compatible-for-laptop-having-Nvidia-Geforce-GTX-1050ti-for-deep-learning-applications
+https://www.pugetsystems.com/labs/hpc/How-to-Install-TensorFlow-with-GPU-Support-on-Windows-10-Without-Installing-CUDA-UPDATED-1419/
 
-Need visual studio for CUDA
-Need to figure out which version of CUDA I need to install. 
-Need to use that version of CUDA to dictate which wheel of PyTorch 0.4.1 I install.
+
+"It doesn’t matter which version are you using in terms of compatibility as long as if you have GPU and your GPU is among the supported type of GPUs. 
+Tensorflow is depending on CUDA version while CUDA is depending on your GPU type and GPU card driver version. You must consider the following two Keypoints:"
+
+I should put all of this in a docker container:
+Installing everything with CONDA?
+Also should I install GIT while I am at it?
+
+Need visual studio for CUDA - maybe not with Anaconda
+
+Need to figure out which version of CUDA I need to install. - not necessary with Anaconda?
+	"If you have a GPU it doesn't matter any version of cuda you use"
+	Cuda Install Guide - https://docs.nvidia.com/cuda/cuda-installation-guide-microsoft-windows/
+
+Need to use that version of CUDA to dictate which wheel of PyTorch 0.4.1 I install. - Also instlaling PyTorch with Anaconda?
+	I think I can install - cu92/torch-0.4.1-cp37-cp37m-win_amd64.whl
+
 Apparently using Anaconda simplifies PyTorch installation?
+	With anaconda python you do not have to install CUDA.
+	Read up on conda: https://conda.io/en/latest/
+Tensorflow 2.0.0 (optional, useful for model monitoring)
+	https://www.tensorflow.org/install/gpu
+	One suggestion: 
+	https://stackoverflow.com/questions/54239122/tensorflow-python-3-7
+	"Firstly, you should download and set up the anaconda via anaconda and then open anaconda prompt and then follow these steps via TensorFlow: https://www.tensorflow.org/install/pip?lang=python3
+	Fourthly, you should use 'pip install --ignore-installed --upgrade tensorflow==1.14.0' to install TensorFlow 1.14 on Conda Finally, you can use TensorFlow that is version 1.14 on python 3.7"
+	
+	Tensorflow Requires:
+	NVIDIA® GPU card with CUDA® Compute Capability 3.5 or higher. See the list of CUDA-enabled GPU cards. - We are set on this
+	-	Video Card: Quadro M620 
+	-	Compute Capability: 5.2
+	
+TensorboardX 1.8 (optional, useful for model monitoring)
