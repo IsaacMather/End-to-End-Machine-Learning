@@ -1,12 +1,13 @@
 https://www.quora.com/Which-version-of-cuda-cudnn-and-tensorflow-is-compatible-for-laptop-having-Nvidia-Geforce-GTX-1050ti-for-deep-learning-applications
+
+
 https://www.pugetsystems.com/labs/hpc/How-to-Install-TensorFlow-with-GPU-Support-on-Windows-10-Without-Installing-CUDA-UPDATED-1419/
+https://www.pugetsystems.com/labs/hpc/Install-TensorFlow-2-beta1-GPU-on-Windows-10-and-Linux-with-Anaconda-Python-no-CUDA-install-needed-1520/
 
 
 "It doesn’t matter which version are you using in terms of compatibility as long as if you have GPU and your GPU is among the supported type of GPUs. 
 Tensorflow is depending on CUDA version while CUDA is depending on your GPU type and GPU card driver version. You must consider the following two Keypoints:"
 
-I should put all of this in a docker container:
-Installing everything with CONDA?
 Also should I install GIT while I am at it?
 
 Need visual studio for CUDA - maybe not with Anaconda
@@ -21,6 +22,7 @@ Need to use that version of CUDA to dictate which wheel of PyTorch 0.4.1 I insta
 Apparently using Anaconda simplifies PyTorch installation?
 	With anaconda python you do not have to install CUDA.
 	Read up on conda: https://conda.io/en/latest/
+
 Tensorflow 2.0.0 (optional, useful for model monitoring)
 	https://www.tensorflow.org/install/gpu
 	One suggestion: 
@@ -34,3 +36,13 @@ Tensorflow 2.0.0 (optional, useful for model monitoring)
 	-	Compute Capability: 5.2
 	
 TensorboardX 1.8 (optional, useful for model monitoring)
+
+
+Oh most excellent! 
+
+Your guide came up while I am researching my first PyTorch, TensorFlow and and TensorboardX installation. You laid out such a detailed explanation of the process of installing TensorFlow, and cleard up many questions I had about installing PyTorch like what CUDA do I need, and what Visual Studio do I need. (Turns out neither with a fresh Anaconda install)
+
+If i were to follow the current guide what major things might I overcome in using the guide to install TensorFlow2?
+
+
+short post right now that will use the tensorflow-gpu seup in this post as the basis for setting up a TensorFlow 2.0.0-beta1 install for testing 
