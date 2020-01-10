@@ -40,9 +40,7 @@ TensorboardX 1.8 (optional, useful for model monitoring)
 
 Oh most excellent! 
 
-Your guide came up while I am researching my first PyTorch, TensorFlow and and TensorboardX installation. You laid out such a detailed explanation of the process of installing TensorFlow, and cleard up many questions I had about installing PyTorch like what CUDA do I need, and what Visual Studio do I need. (Turns out neither with a fresh Anaconda install)
+Your guide came up while I am researching my first PyTorch, TensorFlow and and TensorboardX installation. You laid out such a detailed explanation of the process of installing TensorFlow, and cleared up many questions I had about installing PyTorch like what CUDA do I need, and what Visual Studio do I need. (Turns out neither with a fresh Anaconda install)
 
-If i were to follow the current guide what major things might I overcome in using the guide to install TensorFlow2?
+I'm following this tutorial: https://www.ahmedbesbes.com/blog/end-to-end-machine-learning which requires PyTorch 0.4.1 and suggests TensorboardX 1.8, both of which are outdated versions. If I follow your Install TensorFlow 2 beta1 (GPU) guide on top of your How to Install TensorFlow with GPU Support on Windows 10 guide, will installation of these older versions go smoothly? Assuming I use some install instructions like this: https://stackoverflow.com/questions/50229857/how-can-i-downgrade-the-version-pytorch-from-0-4-to-0-31-with-anaconda
 
-
-short post right now that will use the tensorflow-gpu seup in this post as the basis for setting up a TensorFlow 2.0.0-beta1 install for testing 
