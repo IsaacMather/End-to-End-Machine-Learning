@@ -5,6 +5,19 @@ https://www.pugetsystems.com/labs/hpc/How-to-Install-TensorFlow-with-GPU-Support
 https://www.pugetsystems.com/labs/hpc/Install-TensorFlow-2-beta1-GPU-on-Windows-10-and-Linux-with-Anaconda-Python-no-CUDA-install-needed-1520/
 
 
+Nvidia driver file path:
+C:\Users\isaama2\Downloads\441.66-quadro-desktop-notebook-win10-64bit-international-whql.exe
+
+Anaconda Python 7 64 bit Windows install path
+C:\Users\isaama2\Downloads\Anaconda3-2019.10-Windows-x86_64(1).exe
+
+Docker install path:
+C:\Users\isaama2\Downloads\Docker Desktop Installer(1).exe
+
+
+
+
+
 "It doesn’t matter which version are you using in terms of compatibility as long as if you have GPU and your GPU is among the supported type of GPUs. 
 Tensorflow is depending on CUDA version while CUDA is depending on your GPU type and GPU card driver version. You must consider the following two Keypoints:"
 
