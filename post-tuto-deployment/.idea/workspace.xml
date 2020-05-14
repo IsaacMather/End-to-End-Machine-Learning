@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="116888cf-7740-461e-9a0a-6acf2d481430" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XGq4nI4ZIO2IF1jCM2CHPHyNha" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="HTML" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\isaama2\Projects\post-tuto-deployment" />
+      <recent name="C:\Users\isaama2\Projects\post-tuto-deployment\src\api" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="116888cf-7740-461e-9a0a-6acf2d481430" name="Default Changelist" comment="" />
+      <created>1580682589857</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580682589857</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="requirements.txt" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="798" y="170" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585442135834">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="798" y="170" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1585442135834" />
+    <state x="682" y="143" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1586406987967">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="485" y="100" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1366.728@0.0.1366.728" timestamp="1585185134545" />
+    <state x="682" y="143" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/257.1080.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1586406987967" />
+    <state x="585" y="118" key="FileChooserDialogImpl" timestamp="1585270471092">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="585" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1585270471092" />
+    <state x="184" y="7" key="SettingsEditor" timestamp="1580682732347">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="7" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1580682732347" />
+    <state x="378" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1588027810219">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="378" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728/-262.-1080.1920.1040@0.0.1366.728" timestamp="1588027810219" />
+    <state x="378" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1587155775166" />
+    <state x="531" y="269" key="com.intellij.ide.util.TipDialog/257.1080.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1587087216918" />
+    <state x="688" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1585270408415">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="688" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1585270408415" />
+  </component>
+</project>
