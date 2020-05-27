@@ -7,6 +7,6 @@ RUN pip install -r requirements.txt -v
 
 ADD . /app
 
-EXPOSE 8050
+EXPOSE 80
 
 CMD ["gunicorn", "-b", "0.0.0.0:8050", "app:app.server"]
