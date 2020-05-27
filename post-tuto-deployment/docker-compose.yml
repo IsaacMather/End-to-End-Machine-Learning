@@ -28,7 +28,7 @@ services:
       context: src/dash
       dockerfile: Dockerfile
     ports:
-      - "80:8050"
+      - "8050:8050"
     environment:
       - ENVIRONMENT=prod
       - API_URL=http://api:5000/api
